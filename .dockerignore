@@ -1,0 +1,11 @@
+**/node_modules
+**/venv
+**/.env
+**/*.db
+**/*.log
+frontend/dist
+backend/__pycache__
+.git
+.gitignore
+.gemini
+deploy/data
